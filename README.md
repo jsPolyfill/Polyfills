@@ -15,7 +15,7 @@ browser does not support a certain functionality or function in certain
 versions by adding the code for that functionality in the cases where is
 required, so we can make sure we provide for older browsers.   
 
-![](http://www.paulirish.com/i/7570.png)
+![](http://www.paulirish.com/i/7570.png)  
 By [Paul Irish](http://www.paulirish.com/)  
 
 [Another great article](https://remysharp.com/2010/10/08/what-is-a-polyfill) that
