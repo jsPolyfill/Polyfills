@@ -21,9 +21,10 @@ By [Paul Irish](http://www.paulirish.com/)
 [Another great article](https://remysharp.com/2010/10/08/what-is-a-polyfill) that
 explains in depth about the same topic.
 
-# List
+# Array
 
 - [Array.prototype.find](https://github.com/jsPolyfill/Array.prototype.find)
+- [Array.prototype.findIndex](https://github.com/jsPolyfill/Array.prototype.findIndex)
 
 # Collaboration
 
