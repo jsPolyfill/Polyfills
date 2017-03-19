@@ -21,19 +21,22 @@ By [Paul Irish](http://www.paulirish.com/)
 [Another great article](https://remysharp.com/2010/10/08/what-is-a-polyfill) that
 explains in depth about the same topic.
 
-# Events
-- [CustomEvent](https://github.com/jsPolyfill/CustomEvent)
-
 # Array
 
 - [Array.prototype.find](https://github.com/jsPolyfill/Array.prototype.find)
-- [Array.prototype.findIndex](https://github.com/jsPolyfill/Array.prototype.findIndex)
+- **Array.prototype.findIndex**
+  - [Array.prototype.findIndex](https://www.npmjs.com/package/jspolyfill-array.prototype.findIndex)
+  - [Array.prototype.findIndex](https://www.npmjs.com/package/array.prototype.findindex)
+  - [ponyfill-array-findindex](https://www.npmjs.com/package/ponyfill-array-findindex)
 - **Array.from**
   - [array.from](https://www.npmjs.com/package/array.from)
   - [array-from](https://www.npmjs.com/package/array-from)
 - **Array.fill**
   - [array.prototype.fill](https://www.npmjs.com/package/array.prototype.fill)
   - [array-fill](https://www.npmjs.com/package/array-fill)
+
+# Events
+- [CustomEvent](https://github.com/jsPolyfill/CustomEvent)
 
 # Collaboration
 
