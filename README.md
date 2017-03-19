@@ -31,6 +31,9 @@ explains in depth about the same topic.
 - **Array.from**
   - [array.from](https://www.npmjs.com/package/array.from)
   - [array-from](https://www.npmjs.com/package/array-from)
+- **Array.fill**
+  - [array.prototype.fill](https://www.npmjs.com/package/array.prototype.fill)
+  - [array-fill](https://www.npmjs.com/package/array-fill)
 
 # Collaboration
 
