@@ -28,6 +28,9 @@ explains in depth about the same topic.
 
 - [Array.prototype.find](https://github.com/jsPolyfill/Array.prototype.find)
 - [Array.prototype.findIndex](https://github.com/jsPolyfill/Array.prototype.findIndex)
+- **Array.from**
+  - [array.from](https://www.npmjs.com/package/array.from)
+  - [array-from](https://www.npmjs.com/package/array-from)
 
 # Collaboration
 
